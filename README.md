@@ -23,7 +23,7 @@ Follow these instructions to set up and run the project locally:
 1. **Prerequisites**: Ensure you have UiPath Studio installed on your system.
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/uipath-invoice-processing.git
+git clone https://github.com/gokulsodar/Invoice_Extractor.git
 
 3. **Open in UiPath Studio**: Open the project in UiPath Studio to view and customize the automation workflows as needed.
 
